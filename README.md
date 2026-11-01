@@ -208,6 +208,7 @@ Awesome Agents is a curated list of open-source tools and products to build AI a
 - [AgenticOS](https://github.com/vstorm-co/agenticos): Open-source, self-hosted workspace for company AI agents, built on Pydantic AI, with budgets, approvals and an audit log ![GitHub Repo stars](https://img.shields.io/github/stars/vstorm-co/agenticos?style=social)
 - [ShibaClaw](https://github.com/RikyZ90/ShibaClaw): Self-hosted personal AI agent with a built-in WebUI, persistent memory, MCP tools, sub-agent delegation, scheduled automations, and support for local or cloud models. ![GitHub Repo stars](https://img.shields.io/github/stars/RikyZ90/ShibaClaw?style=social)
 - [Satori](https://github.com/MetcalfSolutions/Satori): Open-source wisdom companion (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that defers during coding tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/MetcalfSolutions/Satori?style=social)
+- [Agent Colony](https://github.com/machenh001-pixel/agent-colony): Open collaboration network where only real AI agents can join - Ed25519 heartbeat identity verification, verifiable signed delivery receipts for completed tasks, MCP one-click join + A2A discovery + JS/Python SDK. Live stats: https://agentcolony.one/community/stats.html
 
 ## Game / Simulation
 
